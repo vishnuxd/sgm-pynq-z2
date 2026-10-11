@@ -2,7 +2,8 @@
 
 Real-time depth estimation using Semi-Global Matching (SGM) on a low-cost FPGA, validated on the KITTI Vision Benchmark Suite.
 
-![Demo](https://raw.githubusercontent.com/vishnuxd/sgm-pynq-z2/main/results/result_demo.gif)
+![Uploading WhatsApp Video 2026-10-11 at 12.50.39 PM.gif…]()
+
 
 *Real-time depth estimation on the PYNQ-Z2 — KITTI dataset*
 
